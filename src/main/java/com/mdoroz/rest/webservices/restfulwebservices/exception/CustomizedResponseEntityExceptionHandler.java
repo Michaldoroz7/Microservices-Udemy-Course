@@ -3,7 +3,6 @@ package com.mdoroz.rest.webservices.restfulwebservices.exception;
 import java.time.LocalDateTime;
 import java.util.Objects;
 
-import com.mdoroz.rest.webservices.restfulwebservices.user.UserNotFoundException;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.HttpStatusCode;
